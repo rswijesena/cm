@@ -4,7 +4,7 @@ import java.util.*;
 
 
 /**
- * This class expose a method to find provided string whether its null or empty
+ * This class expose set of util methods. Please read method descriptions
  */
 public class UtilMethods {
 
